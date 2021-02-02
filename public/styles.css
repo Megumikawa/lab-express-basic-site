@@ -9,6 +9,12 @@ h1 {
   text-align: center;
 }
 
+.maintop-intro {
+  text-align: center;
+  margin-top: 80px;
+  font-size: 20px;
+}
+
 ul {
   display: flex;
   padding: 0;
